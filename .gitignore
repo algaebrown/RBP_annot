@@ -1,0 +1,10 @@
+*.txt
+*.xlsx
+*.csv
+*.tsv
+*.log
+*.obo
+*.gaf
+gene2go
+*.pickle
+*.ipynb_checkpoints
